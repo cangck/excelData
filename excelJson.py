@@ -36,8 +36,6 @@ def read_excel():
                 # sheet的名称，行数，列数
                 cols = sheet2.col_values(9)  # 获取列内容
                 for i in range(len(cols)):
-                    if i > 20:
-                        break
                     if re.match(r'^[0-9]*\-[0-9]*', cols[i]):
                         tel = {}
                         res = re.search('(.*)-(.*)', cols[i])
