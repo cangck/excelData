@@ -9,17 +9,13 @@ import uuid
 import xlrd
 import xlwt
 import json
+import random
 
 
 def read_excel():
-    email = []
-    tel = []
-    error = []
-    emailcount = 0
-    telcount = 0
+    data = []
     talcount = 0
-    errorcount = 0
-
+    name = 0
     # dir = ['data1', 'data2', 'data3', 'data4']
     dir = ['data1']
     for h in range(len(dir)):
@@ -39,40 +35,21 @@ def read_excel():
                 sheet2 = workbook.sheet_by_name(sheet2_name)
                 # sheet的名称，行数，列数
                 cols = sheet2.col_values(9)  # 获取列内容
-                talcount = talcount + len(cols)
                 for i in range(len(cols)):
-                    # print("%s" % cols[i])
-                    if re.match(
-                            r'^[0-9a-zA-Z_.\-\+]{0,30}@[0-9a-zA-Z.\-\+]{1,20}\.[live,wohnmobil,novoa,sextl,info,com,cn,net,org,tv,edu,mx,io,tw,us,Com,gmx,at,smartsurv,co,za,inbox,lv,englpa,sextl,info,inbox,f-m,fm,biz,groeschel,wohnmobil,church]{1,3}$',
-                            cols[i]):
-                        email.append(cols[i])
-                    elif re.match(r'^[0-9]*\-[0-9]*', cols[i]):
-                        tel.append(cols[i])
-                    else:
-                        if re.match(r'^.*@.*$', cols[i]):
-                            email.append(cols[i])
-                        else:
-                            error.append(cols[i])
-                            # print(cols[i])
+                    if i > 20:
+                        break
+                    if re.match(r'^[0-9]*\-[0-9]*', cols[i]):
+                        tel = {}
+                        res = re.search('(.*)-(.*)', cols[i])
+                        tel['name'] = name
+                        tel['tel'] = "+" + res.group(1) + res.group(2)
+                        data.append(tel)
+                        name = name + 1
 
-        if len(email) > 0:
-            writeDate(email, 'email')
-            emailcount = emailcount + len(email)
-            email.clear()
-        if len(tel) > 0:
-            writeDate(tel, 'telephone')
-            telcount = telcount + len(tel)
-            tel.clear()
-
-    if len(error) > 0:
-        writeDate(error, 'error')
-
-    print('email: ' + str(emailcount))
-    print('tel: ' + str(telcount))
-    print('error: ' + str(len(error)))
-
-    print('counts: ' + str(talcount))
-    print('totals: ' + str(emailcount + telcount + len(error)))
+        print(json.dumps(tel))
+        fp = open("test.txt", 'w')
+        fp.write(json.dumps(data));
+        fp.close()
 
 
 def writeDate(file, name):
