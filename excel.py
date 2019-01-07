@@ -21,7 +21,7 @@ def read_excel():
     errorcount = 0
 
     # dir = ['data1', 'data2', 'data3', 'data4']
-    dir = ['data1']
+    dir = ['data1','data2','data3']
     for h in range(len(dir)):
         print(dir[h])
         for dirpath, dirnames, filenames in os.walk(dir[h]):
