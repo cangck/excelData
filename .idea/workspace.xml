@@ -2,80 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0eb55d-e319-4fda-9b68-f107216b6f52" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data1/wp3.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:07:01-2018:10:15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:10:16-2018:10:20.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:10:21-2018:10:25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:10:26-2018:10:31.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:11:01-2018:11:03.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:11:04-2018:1106.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:11:07-2018:11:08.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:11:09-2018:11:10.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data1/2018:11:11-2018:11:12.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:05:22.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:05-2018:10:8.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:08-2018:10:13.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:1-2018:10:04.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:14-2018:10:17.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:18-2018:10:22.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:23-2018:10:27.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:10:28-2018:10:31.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:11:01-2018:11:07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:11:08-2018:11:13.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:11:12-2018:11:17.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:11:18-2018:11:22.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:23.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:25-2018:5:27.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:28.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:29.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:30.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:5:31.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:6:1-2018:6:6.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:6:13-2018:6:18.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:6:19-2018:6:25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:6:26-2018:6:30.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:6:7-2018:6:12.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:7:1-2018:7:7.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:7:8-2018:7:14.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:8.9-2018:8:15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:8:1-2018:8:8.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:8:16-2018:8:20.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:8:21-2018:826.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:8:27-2018:831.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:1-2018:9:5.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:11-2018:915.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:16-2018:9:20.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:21-2018:9:25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:26-2018:9:30.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/2018:9:6-2018:910.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2017:06:01-2017:12:20.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2017:12:21-2017:12:31.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:01:16-2018:01:24.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:01:25-2018:01:31.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:02:01-2018:02:07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:02:08-2018:02:14.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:02:15-2018:02:21.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:02:22-2018:02:25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:02:26-2018:02:28.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:03:01-2018:03:07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:03:08-2018:03:13.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:03:14-2018:03:19.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:03:20-2018:03:25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:03:26-2018:0331.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:04:01-2018:04:06.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:1:01-2018:01:15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:4:23-2018:4:27.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:4:28-2018:4:30.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:4:7-2018:4:11.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:1-2018:5:3.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:10-2018:5:14.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:15-2018:05:15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:16-2018:5:16.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:18.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:19-2018:5:21.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:4-2018:5:7.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data3/2018:5:8-2018:5:9.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/email89955fc1-45c9-4e17-a40e-798cfbbf1df2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/email89955fc1-45c9-4e17-a40e-798cfbbf1df2.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/error48b08647-6454-4468-a2df-b7e6648bc109.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/error48b08647-6454-4468-a2df-b7e6648bc109.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/telephoneb5a902a0-b16b-4a4f-8b25-cdaa27551620.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/telephoneb5a902a0-b16b-4a4f-8b25-cdaa27551620.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,21 +19,36 @@
     <SUITE FILE_PATH="coverage/excelData$re.coverage" NAME="re Coverage Results" MODIFIED="1542786246057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$WP35excel.coverage" NAME="WP35excel Coverage Results" MODIFIED="1547543291672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$scripy.coverage" NAME="scripy Coverage Results" MODIFIED="1542794327929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/excelData$excelJson.coverage" NAME="excelJson Coverage Results" MODIFIED="1542792163046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/excelData$excelJson.coverage" NAME="excelJson Coverage Results" MODIFIED="1548326189589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$testre.coverage" NAME="testre Coverage Results" MODIFIED="1542786462740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$scripy1.coverage" NAME="scripy1 Coverage Results" MODIFIED="1542795297304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$excel.coverage" NAME="excel Coverage Results" MODIFIED="1548120490191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="excel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/excel.py">
+      <file leaf-file-name="excelJson.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excelJson.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding>
-                <element signature="e#60#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="558">
+              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,6 +83,7 @@
         <option value="$PROJECT_DIR$/18923899560/American/README.MD" />
         <option value="$PROJECT_DIR$/18923899560/Europe/README.MD" />
         <option value="$PROJECT_DIR$/WP35excel.py" />
+        <option value="$PROJECT_DIR$/数据/test.txt" />
       </list>
     </option>
   </component>
@@ -160,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,13 +123,12 @@
             <path>
               <item name="excelData" type="b2602c69:ProjectViewProjectNode" />
               <item name="excelData" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="数据" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,19 +139,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/数据" />
-      <recent name="$PROJECT_DIR$/18923899560/Europe" />
-      <recent name="$PROJECT_DIR$/18923899560/American" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/18923899560/18681594022/American" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data1" />
       <recent name="$PROJECT_DIR$/data3" />
       <recent name="$PROJECT_DIR$/data2" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sourcedate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数据" />
+      <recent name="$PROJECT_DIR$/new" />
+      <recent name="$PROJECT_DIR$/18923899560/Europe" />
+      <recent name="$PROJECT_DIR$/18923899560/American" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.excel">
+  <component name="RunManager" selected="Python.excelJson">
     <configuration name="WP35excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="excelData" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,11 +271,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.excelJson" />
         <item itemvalue="Python.excel" />
         <item itemvalue="Python.WP35excel" />
         <item itemvalue="Python.scripy1" />
         <item itemvalue="Python.scripy" />
-        <item itemvalue="Python.excelJson" />
       </list>
     </recent_temporary>
   </component>
@@ -352,17 +299,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38594705" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38594705" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31536114" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2019038" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31466395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21442886" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,27 +319,27 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38594705" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14328657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38594705" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3156823" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +349,90 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret column="2171" lean-forward="true" selection-start-column="2171" selection-end-column="2171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret column="8060" lean-forward="true" selection-start-column="8060" selection-end-column="8060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret column="16235" lean-forward="true" selection-start-column="16235" selection-end-column="16235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret column="5447" selection-start-column="5447" selection-end-column="5447" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WP35excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -413,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1332">
           <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -423,9 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,9 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret column="22764" lean-forward="true" selection-end-column="113620" />
@@ -466,9 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,9 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -487,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,13 +516,6 @@
     <entry file="file://$PROJECT_DIR$/data.txt" />
     <entry file="file://$PROJECT_DIR$/target/README.txt" />
     <entry file="file://$PROJECT_DIR$/re.py" />
-    <entry file="file://$PROJECT_DIR$/excelJson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testre.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -576,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret column="105023" lean-forward="true" selection-start-column="105023" selection-end-column="105023" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="755">
@@ -599,11 +598,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="468">
+          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
