@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0eb55d-e319-4fda-9b68-f107216b6f52" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data2/4022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/原始数据/4022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/原始数据/tuya_data_2_28.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/数据统计.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/email89955fc1-45c9-4e17-a40e-798cfbbf1df2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/email89955fc1-45c9-4e17-a40e-798cfbbf1df2.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/error48b08647-6454-4468-a2df-b7e6648bc109.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/error48b08647-6454-4468-a2df-b7e6648bc109.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/telephoneb5a902a0-b16b-4a4f-8b25-cdaa27551620.xls" beforeDir="false" afterPath="$PROJECT_DIR$/new/telephoneb5a902a0-b16b-4a4f-8b25-cdaa27551620.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,36 +20,18 @@
     <SUITE FILE_PATH="coverage/excelData$re.coverage" NAME="re Coverage Results" MODIFIED="1542786246057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$WP35excel.coverage" NAME="WP35excel Coverage Results" MODIFIED="1547543291672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$scripy.coverage" NAME="scripy Coverage Results" MODIFIED="1542794327929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/excelData$excelJson.coverage" NAME="excelJson Coverage Results" MODIFIED="1548326189589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/excelData$excelJson.coverage" NAME="excelJson Coverage Results" MODIFIED="1551343908931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$testre.coverage" NAME="testre Coverage Results" MODIFIED="1542786462740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/excelData$scripy1.coverage" NAME="scripy1 Coverage Results" MODIFIED="1542795297304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/excelData$excel.coverage" NAME="excel Coverage Results" MODIFIED="1548120490191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/excelData$excel.coverage" NAME="excel Coverage Results" MODIFIED="1551346401926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="excelJson.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="303">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -84,6 +67,7 @@
         <option value="$PROJECT_DIR$/18923899560/Europe/README.MD" />
         <option value="$PROJECT_DIR$/WP35excel.py" />
         <option value="$PROJECT_DIR$/数据/test.txt" />
+        <option value="$PROJECT_DIR$/target/数据统计.txt" />
       </list>
     </option>
   </component>
@@ -123,7 +107,18 @@
             <path>
               <item name="excelData" type="b2602c69:ProjectViewProjectNode" />
               <item name="excelData" type="462c0819:PsiDirectoryNode" />
-              <item name="数据" type="462c0819:PsiDirectoryNode" />
+              <item name="data2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excelData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excelData" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excelData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excelData" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="原始数据" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,18 +134,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data1" />
-      <recent name="$PROJECT_DIR$/data3" />
-      <recent name="$PROJECT_DIR$/data2" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/sourcedate" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/数据" />
       <recent name="$PROJECT_DIR$/new" />
       <recent name="$PROJECT_DIR$/18923899560/Europe" />
       <recent name="$PROJECT_DIR$/18923899560/American" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/原始数据" />
+      <recent name="$PROJECT_DIR$/data2" />
+      <recent name="$PROJECT_DIR$/data1" />
+      <recent name="$PROJECT_DIR$/data3" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -166,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.excelJson">
+  <component name="RunManager" selected="Python.excel">
     <configuration name="WP35excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="excelData" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,8 +266,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.excelJson" />
         <item itemvalue="Python.excel" />
+        <item itemvalue="Python.excelJson" />
         <item itemvalue="Python.WP35excel" />
         <item itemvalue="Python.scripy1" />
         <item itemvalue="Python.scripy" />
@@ -292,54 +287,62 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299389" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38594705" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299389" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299389" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38594705" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.31466395" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21442886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23947896" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14328657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38594705" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3156823" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +352,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/excelJson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -596,31 +620,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/excel.py">
+    <entry file="file://$PROJECT_DIR$/数据/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excelJson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret column="8060" selection-start-column="8060" selection-end-column="8060" />
+        <state relative-caret-position="1404">
+          <caret column="12152" selection-start-column="12152" selection-end-column="12152" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据/test.txt">
+    <entry file="file://$PROJECT_DIR$/excelJson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="126">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/数据统计.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
         </state>
       </provider>
     </entry>
